@@ -135,10 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Hamza and I specialize in driving key business decisions 
+              through data-driven insights, smart automation, and clear reporting. I 
+              work closely with teams to uncover patterns, streamline processes, and 
+              turn complex data into actions that move the business forward. Whether 
+              it’s cleaning CRM data, analyzing campaign performance, or building 
+              dashboards, I focus on making data practical and valuable.
             </p>
 
             <p>

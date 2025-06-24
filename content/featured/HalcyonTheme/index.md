@@ -1,11 +1,11 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Manufacturing Productivity & Downtime Analysis'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://www.linkedin.com/pulse/manufacturing-productivity-downtime-analysis-data-project-shakir-vsevc/'
 tech:
-  - VS Code
+  - Excel
   - Sublime Text
   - Atom
   - iTerm2
