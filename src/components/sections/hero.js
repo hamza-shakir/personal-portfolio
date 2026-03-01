@@ -38,6 +38,10 @@ const StyledHeroSection = styled.section`
   p {
     margin: 20px 0 0;
     max-width: 540px;
+
+    .highlight {
+      color: var(--green);
+    }
   }
 
   .email-link {
@@ -60,28 +64,21 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Hamza Adhnan Shakir.</h2>;
+  const three = <h3 className="big-heading">I bridge data and strategy.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I'm a data analyst who operates at the intersection of{' '}
+        <span className="highlight">data, systems, strategy, and decision-making</span>. I
+        specialize in revenue operations, pipeline analytics, and turning messy data into business
+        clarity.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href="/#contact" rel="noreferrer">
+      Get in touch
     </a>
   );
 
