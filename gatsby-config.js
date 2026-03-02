@@ -5,7 +5,7 @@ module.exports = {
     title: 'Hamza Adhnan Shakir',
     description:
       'Hamza Shakir is a data and RevOps analyst who specializes in connecting data, systems, and strategy to drive smarter business decisions.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://hamza-adhnan-shakir.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@baldtactician',
   },
