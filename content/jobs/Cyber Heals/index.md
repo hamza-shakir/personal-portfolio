@@ -3,7 +3,7 @@ date: '2024-04-01'
 title: 'RevOps Analyst'
 company: 'Cyber Heals'
 location: 'Chennai, TN, India'
-range: 'April 2024 - Present'
+range: 'April 2024 - May 2026'
 url: 'https://cyberheals.com/'
 ---
 
