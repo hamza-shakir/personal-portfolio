@@ -2,7 +2,7 @@
 date: '2026-02-22'
 title: 'B2B SaaS Churn Analysis'
 github: ''
-external: ''
+external: 'https://drive.google.com/file/d/1C7eGxF43dP3rnOLQTrgDXMjUKm1Ymo7j/view?usp=sharing'
 tech:
   - Excel
   - XLOOKUP
